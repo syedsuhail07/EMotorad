@@ -24,8 +24,8 @@ Endpoints -
 -- status codes 
 
 Below drive has screenshots of postman and mongodb -
-https://drive.google.com/drive/folders/1kyU6g6oY1twr7JqkWw5h7GtXvlb6k1lp?usp=drive_link
-
+![image](https://drive.google.com/file/d/1G6PBG96aLTstBRqIoXcAS3kAHY5bS8Gi/view?usp=drive_link)  
+![image](https://drive.google.com/file/d/1ABYKZpQUC4utcM-h7j4dH6NSzAUI7dlL/view?usp=drive_link)  
 
 
 Testing the API with postman - http://localhost:3000/contacts
